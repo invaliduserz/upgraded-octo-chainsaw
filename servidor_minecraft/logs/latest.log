@@ -1371,3 +1371,57 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 19:42:26.805] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
 [27May2025 19:42:50.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has reached the goal [Here They Come]
 [27May2025 19:44:04.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -2.750896702737066,-0.604424101326714,10.064033317824624
+[27May2025 19:46:42.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Acquire Hardware]
+[27May2025 19:47:23.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [No Step on Snake]
+[27May2025 19:50:35.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Magic Writing]
+[27May2025 19:52:49.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Isn't It Iron Pick]
+[27May2025 19:53:12.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Cobweb Entanglement]
+[27May2025 19:53:25.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Zombie Bruiser
+[27May2025 19:53:25.111] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
+[27May2025 19:55:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was shot by Skeleton
+[27May2025 19:55:01.251] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
+[27May2025 19:57:03.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Dark Metallurgy]
+[27May2025 19:57:57.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:58:00.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:58:02.100] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 20:01:10.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! 7.495029433178047,-1.756759288177264,6.876251896622989
+[27May2025 20:01:35.802] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 20:01:39.302] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 20:02:05.590] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[27May2025 20:02:05.591] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[27May2025 20:06:01.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! 9.900567243104433,-1.6709083839322858,-2.4294745964486992
+[27May2025 20:06:09.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! 9.740926958588261,0.8232407249357578,-3.1830944706571245
+[27May2025 20:08:42.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1239873> todo bn???
+[27May2025 20:08:53.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesus> CONTESTA
+[27May2025 20:09:11.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1239873> se me descargo el cel jajaj
+[27May2025 20:09:24.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesus> TE ESTOY MACANDO A LA LAP
+[27May2025 20:10:03.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1239873> ya duermete
+[27May2025 20:15:58.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -7.470255867435299,1.7531999805212024,-6.757894567438541
+[27May2025 20:16:05.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -7.656968677686564,0.25799910351527444,-6.623523132972309
+[27May2025 20:16:19.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5551ms or 111 ticks behind
+[27May2025 20:16:36.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Timed out
+[27May2025 20:16:36.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[27May2025 20:17:22.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus fell from a high place
+[27May2025 20:17:22.825] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
+[27May2025 20:18:03.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:52259] logged in with entity id 47378 at (166.5, 68.03584062504456, 599.5)
+[27May2025 20:18:03.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[27May2025 20:18:03.529] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[27May2025 20:18:06.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Timed out
+[27May2025 20:18:06.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[27May2025 20:18:29.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.89.68.41:31012] logged in with entity id 47451 at (139.56452694782612, 73.0, 579.8061010526447)
+[27May2025 20:18:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
+[27May2025 20:18:29.556] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[27May2025 20:19:02.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Timed out
+[27May2025 20:19:02.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[27May2025 20:19:35.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.89.68.41:31115] logged in with entity id 47594 at (139.56452694782612, 73.0, 579.8061010526447)
+[27May2025 20:19:35.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
+[27May2025 20:19:35.550] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[27May2025 20:20:05.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Timed out
+[27May2025 20:20:05.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[27May2025 20:20:21.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.89.68.41:31124] logged in with entity id 47739 at (139.56452694782612, 73.0, 579.8061010526447)
+[27May2025 20:20:21.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
+[27May2025 20:20:21.904] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[27May2025 20:22:19.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Disconnected
+[27May2025 20:22:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[27May2025 20:23:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Dread Hound
+[27May2025 20:23:43.149] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
