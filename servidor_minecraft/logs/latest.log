@@ -1425,3 +1425,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 20:22:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
 [27May2025 20:23:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Dread Hound
 [27May2025 20:23:43.149] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
+[27May2025 20:26:03.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:52369] logged in with entity id 49511 at (180.0909494252901, 68.0, 591.6761440510481)
+[27May2025 20:26:03.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[27May2025 20:26:03.607] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[27May2025 20:26:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Not Today, Thank You]
+[27May2025 20:27:43.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Ol' Betsy]
+[27May2025 20:27:54.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 was shot by Pillager
+[27May2025 20:27:54.630] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
+[27May2025 20:30:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Diamonds!]
+[27May2025 20:31:47.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! 9.752590653424818,-2.9031272476744903,0.8138443821828787
