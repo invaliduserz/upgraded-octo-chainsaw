@@ -231,6 +231,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-27 20:59:31 +0000",
       "minecraft:bamboo_jungle": "2025-05-27 19:33:44 +0000",
+      "minecraft:wooded_badlands": "2025-05-27 21:20:06 +0000",
       "minecraft:beach": "2025-05-27 20:38:41 +0000",
       "minecraft:mangrove_swamp": "2025-05-27 18:22:16 +0000",
       "minecraft:sparse_jungle": "2025-05-27 17:38:41 +0000",
@@ -239,7 +240,9 @@
       "minecraft:forest": "2025-05-27 20:41:18 +0000",
       "minecraft:desert": "2025-05-27 18:35:42 +0000",
       "minecraft:jungle": "2025-05-27 00:45:18 +0000",
-      "minecraft:warm_ocean": "2025-05-27 19:29:09 +0000"
+      "minecraft:ocean": "2025-05-27 21:18:16 +0000",
+      "minecraft:warm_ocean": "2025-05-27 19:29:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-27 21:17:53 +0000"
     },
     "done": false
   },
@@ -1114,6 +1117,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-05-27 19:01:23 +0000",
+      "rotten_flesh": "2025-05-27 21:16:27 +0000",
       "melon_slice": "2025-05-27 17:38:09 +0000",
       "carrot": "2025-05-27 19:47:45 +0000"
     },
@@ -3759,9 +3763,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-27 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/red_grape_bag": {
+    "criteria": {
+      "has_red_grape": "2025-05-27 21:06:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-27 21:10:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-27 21:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-27 21:11:18 +0000"
     },
     "done": true
   },
@@ -3807,12 +3835,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-05-27 21:01:01 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-27 21:11:24 +0000"
@@ -3822,12 +3844,6 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-27 21:11:24 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/red_grape_bag": {
-    "criteria": {
-      "has_red_grape": "2025-05-27 21:06:55 +0000"
     },
     "done": true
   },
@@ -3867,33 +3883,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-05-27 21:11:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-05-27 21:11:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-27 21:11:27 +0000"
-    },
-    "done": true
-  },
   "mynethersdelight:recipes/misc/crafting/golden_egg": {
     "criteria": {
       "has_gold_ingot": "2025-05-27 21:11:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-05-27 21:10:36 +0000"
     },
     "done": true
   },
@@ -3912,6 +3904,48 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-27 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-27 21:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 21:11:27 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-27 21:13:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 21:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-27 21:15:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-27 21:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-27 21:17:56 +0000"
     },
     "done": true
   },

@@ -1066,3 +1066,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 21:08:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 was slain by Ghost
 [27May2025 21:08:25.113] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
 [27May2025 21:13:42.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Gravedigger]
+[27May2025 21:18:20.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 was turned to ice by Ice Dragon
+[27May2025 21:18:20.894] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
+[27May2025 21:19:03.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Disconnected
+[27May2025 21:19:03.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[27May2025 21:19:03.748] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27May2025 21:19:12.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:52707] logged in with entity id 11225 at (175.5, 68.0, 588.5)
+[27May2025 21:19:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[27May2025 21:19:12.804] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
