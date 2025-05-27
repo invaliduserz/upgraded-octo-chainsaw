@@ -1084,3 +1084,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 17:35:14.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Monster Hunter]
 [27May2025 17:38:49.755] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [27May2025 17:38:49.755] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[27May2025 17:39:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Crops of the Wild]
+[27May2025 17:40:52.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Disconnected
+[27May2025 17:40:52.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[27May2025 17:43:25.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:50705] logged in with entity id 2871 at (108.89367789176771, 68.0, 111.5136988634972)
+[27May2025 17:43:25.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[27May2025 17:43:25.729] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[27May2025 17:43:25.746] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e6eaade[id=<null>,name=jesus,properties={},legacy=false] (/100.89.68.41:6485) lost connection: Disconnected
+[27May2025 17:43:51.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Disconnected
+[27May2025 17:43:51.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[27May2025 17:46:57.406] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d4902ae[id=<null>,name=jesus,properties={},legacy=false] (/100.89.68.41:6507) lost connection: Disconnected
