@@ -1249,3 +1249,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 19:10:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 burned to death
 [27May2025 19:10:57.061] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
 [27May2025 19:12:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has reached the goal [Here They Come]
+[27May2025 19:15:28.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 was kicked for floating too long!
+[27May2025 19:15:28.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Flying is not enabled on this server
+[27May2025 19:15:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[27May2025 19:15:45.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:51930] logged in with entity id 13270 at (274.547690971947, 72.7531999805212, 609.3810572309898)
+[27May2025 19:15:45.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[27May2025 19:15:45.675] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[27May2025 19:15:56.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:15:58.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 was slain by Spider
+[27May2025 19:15:58.952] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
+[27May2025 19:16:02.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:16:03.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:16:04.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:16:21.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1239873> wadad
+[27May2025 19:16:23.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1239873> sddawd
+[27May2025 19:19:25.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has reached the goal [Fortuitous Militia]
+[27May2025 19:21:36.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has reached the goal [Dinner's Served!]
+[27May2025 19:22:20.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=64, z=710} BlockPos{x=227, y=62, z=710}
+[27May2025 19:23:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Acquire Hardware]
+[27May2025 19:23:54.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:54.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:54.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:54.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.247] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:55.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:56.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:56.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:56.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:56.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:56.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:56.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:56.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:23:56.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:24:05.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:24:05.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
