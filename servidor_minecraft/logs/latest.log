@@ -1291,3 +1291,83 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 19:23:56.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27May2025 19:24:05.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27May2025 19:24:05.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:24:27.495] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:24:28.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:24:35.694] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:24:39.595] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:25:02.495] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:25:03.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:25:04.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:25:05.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 19:25:11.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Death Worm
+[27May2025 19:25:11.652] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
+[27May2025 19:25:22.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Timed out
+[27May2025 19:25:22.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[27May2025 19:25:41.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.89.68.41:41309] logged in with entity id 16484 at (124.06994324784851, 66.5625, 881.57230442196)
+[27May2025 19:25:41.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
+[27May2025 19:25:41.266] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[27May2025 19:26:41.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15389, l='ServerLevel[world]', x=152.92, y=63.00, z=1072.54] died, message: 'Unemployed was slain by Fire Dragon'
+[27May2025 19:26:43.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15388, l='ServerLevel[world]', x=145.30, y=63.00, z=1067.58] died, message: 'Unemployed was slain by Fire Dragon'
+[27May2025 19:26:50.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16543, l='ServerLevel[world]', x=127.37, y=64.00, z=1083.72] died, message: 'Unemployed suffocated in a wall'
+[27May2025 19:26:57.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16561, l='ServerLevel[world]', x=175.53, y=63.00, z=1080.78] died, message: 'Unemployed was slain by Fire Dragon'
+[27May2025 19:27:27.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus was kicked for floating too long!
+[27May2025 19:27:27.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Flying is not enabled on this server
+[27May2025 19:27:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[27May2025 19:27:32.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.89.68.41:6799] logged in with entity id 17688 at (30.13248140053472, 100.71249866124624, 58.34845839101108)
+[27May2025 19:27:32.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
+[27May2025 19:27:32.914] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[27May2025 19:27:35.654] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15082, l='ServerLevel[world]', x=179.60, y=63.00, z=1091.27] died, message: 'Unemployed hit the ground too hard'
+[27May2025 19:27:45.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus was kicked for floating too long!
+[27May2025 19:27:45.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Flying is not enabled on this server
+[27May2025 19:27:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[27May2025 19:27:59.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.89.68.41:53656] logged in with entity id 17857 at (30.13248140053472, 88.08592806171622, 58.34845839101108)
+[27May2025 19:27:59.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
+[27May2025 19:27:59.417] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[27May2025 19:28:13.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus was kicked for floating too long!
+[27May2025 19:28:13.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Flying is not enabled on this server
+[27May2025 19:28:13.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[27May2025 19:28:30.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Who You Gonna Call?]
+[27May2025 19:28:31.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.89.68.41:53658] logged in with entity id 18319 at (30.13248140053472, 82.2756630438587, 58.34845839101108)
+[27May2025 19:28:31.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
+[27May2025 19:28:31.719] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[27May2025 19:29:07.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=64, z=954} BlockPos{x=42, y=62, z=953}
+[27May2025 19:29:07.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=64, z=954} BlockPos{x=42, y=62, z=953}
+[27May2025 19:29:07.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=64, z=953} BlockPos{x=42, y=62, z=953}
+[27May2025 19:29:30.452] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16563, l='ServerLevel[world]', x=184.17, y=64.00, z=1088.92] died, message: 'Unemployed was slain by Fire Dragon'
+[27May2025 19:29:44.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=64, z=964} BlockPos{x=36, y=65, z=965}
+[27May2025 19:30:16.755] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16567, l='ServerLevel[world]', x=208.82, y=63.61, z=1070.88] died, message: 'Unemployed walked into fire whilst fighting Fire Dragon'
+[27May2025 19:30:32.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/15081, l='ServerLevel[world]', x=218.65, y=64.00, z=1047.29] died, message: 'Weaponsmith was slain by Fire Dragon'
+[27May2025 19:30:34.451] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15382, l='ServerLevel[world]', x=206.92, y=63.00, z=1067.61] died, message: 'Unemployed hit the ground too hard whilst trying to escape Fire Dragon'
+[27May2025 19:30:39.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Magic Writing]
+[27May2025 19:30:41.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15020, l='ServerLevel[world]', x=173.97, y=103.09, z=1001.77] died, message: 'Unemployed was slain by Fire Dragon'
+[27May2025 19:30:55.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has reached the goal [A little cleaning is necessary]
+[27May2025 19:31:08.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/14931, l='ServerLevel[world]', x=144.82, y=64.00, z=1020.33] died, message: 'Cartographer was incinerated by Fire Dragon'
+[27May2025 19:34:41.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! -9.884629977460936,2.9609317664380796E-8,2.998469380850935
+[27May2025 19:34:41.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! -10.266939459182659,2.9702995618663408E-8,3.114441681034691
+[27May2025 19:34:43.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! 12.243827670729207,-2.6149820087084663E-9,-3.714124095571549
+[27May2025 19:34:43.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! 12.243827670729207,-2.6149820087084663E-9,-3.714124095571549
+[27May2025 19:34:43.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! 11.861069414171663,-2.392333442458039E-9,-3.598015661045139
+[27May2025 19:34:44.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! 11.478309377533812,-2.029331369612919E-9,-3.481906686537343
+[27May2025 19:34:44.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! 11.09554773882373,-1.590841236520646E-9,-3.365797226046311
+[27May2025 19:34:44.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! 10.71278465824868,-1.1317169423818996E-9,-3.2496873281703813
+[27May2025 19:34:44.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! 10.330020279995189,-6.947900033082988E-10,-3.1335770366480347
+[27May2025 19:34:44.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jesus) moved too quickly! 9.947254733831137,-3.1035796155265416E-10,-3.0174663908439356
+[27May2025 19:35:07.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Ol' Betsy]
+[27May2025 19:36:04.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 was slain by Ghost
+[27May2025 19:36:05.144] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
+[27May2025 19:36:08.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/24246, l='ServerLevel[world]', x=210.52, y=63.00, z=1077.75] died, message: 'Toolsmith burned to death'
+[27May2025 19:36:12.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24001, l='ServerLevel[world]', x=116.93, y=63.00, z=1059.07] died, message: 'Unemployed was burnt to a crisp whilst fighting Fire Dragon'
+[27May2025 19:36:21.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24044, l='ServerLevel[world]', x=125.65, y=67.00, z=1048.37] died, message: 'Unemployed burned to death'
+[27May2025 19:36:21.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24247, l='ServerLevel[world]', x=207.23, y=67.00, z=1080.75] died, message: 'Unemployed burned to death'
+[27May2025 19:36:27.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24290, l='ServerLevel[world]', x=129.75, y=64.00, z=1112.52] died, message: 'Unemployed was incinerated by Fire Dragon'
+[27May2025 19:36:35.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24288, l='ServerLevel[world]', x=136.58, y=64.20, z=1108.78] died, message: 'Unemployed was burnt to a crisp whilst fighting Fire Dragon'
+[27May2025 19:36:47.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24289, l='ServerLevel[world]', x=135.17, y=64.00, z=1111.44] died, message: 'Unemployed burned to death'
+[27May2025 19:36:49.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Diamonds!]
+[27May2025 19:36:50.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Isn't It Iron Pick]
+[27May2025 19:37:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Book of Monsters]
+[27May2025 19:37:32.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Would you Like to Know More?]
+[27May2025 19:39:53.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Ashes 'n Bones]
+[27May2025 19:42:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Ghost
+[27May2025 19:42:26.805] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
+[27May2025 19:42:50.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has reached the goal [Here They Come]
+[27May2025 19:44:04.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -2.750896702737066,-0.604424101326714,10.064033317824624
