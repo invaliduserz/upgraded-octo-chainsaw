@@ -8256,3 +8256,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 20:30:18.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 20:30:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Diamonds!]
 [27May2025 20:31:47.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! 9.752590653424818,-2.9031272476744903,0.8138443821828787
+[27May2025 20:35:18.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 20:35:18.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 20:37:33.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27May2025 20:37:38.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus moved too quickly! 6.246420689555663,0.41999998688697815,7.800627158859129
+[27May2025 20:40:18.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 20:40:18.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 20:42:04.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -9.973621269990872,1.7531999805212024,1.426908445146296
+[27May2025 20:42:12.088] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1142, y=1, z=731}
+[27May2025 20:42:13.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[27May2025 20:42:13.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[27May2025 20:42:13.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[27May2025 20:42:13.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[27May2025 20:42:13.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[27May2025 20:42:13.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[27May2025 20:42:13.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[27May2025 20:42:13.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[27May2025 20:42:13.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[27May2025 20:42:13.228] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[27May2025 20:42:13.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[27May2025 20:42:13.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[27May2025 20:42:13.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[27May2025 20:42:13.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[27May2025 20:42:13.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[27May2025 20:42:13.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[27May2025 20:42:13.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[27May2025 20:42:13.229] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[27May2025 20:42:16.197] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1160, y=0, z=392}
+[27May2025 20:42:16.198] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1158, y=0, z=392}
+[27May2025 20:42:16.198] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1156, y=0, z=392}
+[27May2025 20:44:11.409] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1328, y=56, z=302} but found not block entity block Block{minecraft:air} at location
+[27May2025 20:44:11.410] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1328, y=56, z=302}
+[27May2025 20:44:16.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1344, y=56, z=304} but found not block entity block Block{minecraft:air} at location
+[27May2025 20:44:16.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1344, y=56, z=304}
+[27May2025 20:44:16.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1342, y=56, z=304} but found not block entity block Block{minecraft:air} at location
+[27May2025 20:44:16.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1342, y=56, z=304}
+[27May2025 20:44:41.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 was frozen by Ice Dragon
+[27May2025 20:44:42.228] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1239873 was created at position [x:-1188, y:114, z:134, dim:minecraft:overworld]
+[27May2025 20:44:42.232] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
+[27May2025 20:45:10.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was shot by Pillager
+[27May2025 20:45:10.604] [Server thread/DEBUG] [tombstone/]: A new grave of the player jesus was created at position [x:19, y:79, z:586, dim:minecraft:overworld]
+[27May2025 20:45:10.605] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
