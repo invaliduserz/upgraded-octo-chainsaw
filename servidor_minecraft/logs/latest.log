@@ -1063,3 +1063,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 21:01:21.853] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/2707, l='ServerLevel[world]', x=-1.63, y=76.32, z=584.01]
 [27May2025 21:01:21.853] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/2708, l='ServerLevel[world]', x=-5.87, y=73.82, z=583.50]
 [27May2025 21:01:21.854] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/2709, l='ServerLevel[world]', x=-4.86, y=73.96, z=582.96]
+[27May2025 21:08:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 was slain by Ghost
+[27May2025 21:08:25.113] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
+[27May2025 21:13:42.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Gravedigger]
