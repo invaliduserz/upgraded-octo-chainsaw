@@ -1093,3 +1093,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [27May2025 18:44:12.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Crops of the Wild]
 [27May2025 18:50:06.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1239873> wadadwada
 [27May2025 18:53:27.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Voluntary Exile]
+[27May2025 18:55:21.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 was kicked for floating too long!
+[27May2025 18:55:21.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Disconnected
+[27May2025 18:55:21.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[27May2025 18:55:21.200] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27May2025 18:55:31.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:51835] logged in with entity id 4936 at (192.61876636796768, 63.92159999847412, 608.5118782557306)
+[27May2025 18:55:31.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[27May2025 18:55:31.529] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[27May2025 18:57:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was shot by Pillager
+[27May2025 18:57:52.075] [Server thread/INFO] [tombstone/]: The player jesus has successfully been saved
+[27May2025 18:58:41.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! 10.072074794080606,0.22768848754498094,1.3766122375386658
+[27May2025 19:00:03.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Take Aim]
+[27May2025 19:00:37.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Knowledge of Death]
+[27May2025 19:00:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Ambush]
+[27May2025 19:00:59.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Knowledge raises the soul]
