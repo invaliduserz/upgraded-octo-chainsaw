@@ -1073,3 +1073,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 19:36:59.896] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
 [28May2025 19:47:35.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Disconnected
 [28May2025 19:47:35.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[28May2025 19:48:39.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 was kicked for floating too long!
+[28May2025 19:48:39.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Flying is not enabled on this server
+[28May2025 19:48:39.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[28May2025 19:48:46.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.99.91.116:54648] logged in with entity id 5615 at (-628.6999999880791, 64.5, 246.92106246640958)
+[28May2025 19:48:46.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
+[28May2025 19:48:46.556] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[28May2025 19:48:47.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:52970] logged in with entity id 5785 at (-605.2199947002152, 70.00133597911214, 142.45086416734532)
+[28May2025 19:48:47.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[28May2025 19:48:48.011] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[28May2025 19:55:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1239873> ???
