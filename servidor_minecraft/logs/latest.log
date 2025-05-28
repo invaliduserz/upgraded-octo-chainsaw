@@ -1055,3 +1055,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 21:00:25.273] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
 [28May2025 21:00:33.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8085ms or 161 ticks behind
 [28May2025 21:14:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has reached the goal [Fighting Nightmares]
+[28May2025 21:22:53.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Bypassing the Expiration Date]
