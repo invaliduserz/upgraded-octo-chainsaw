@@ -1079,3 +1079,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 16:38:12.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:51221] logged in with entity id 3525 at (-574.6091273661137, 63.0, 141.88311397363367)
 [28May2025 16:38:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
 [28May2025 16:38:12.954] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[28May2025 16:42:22.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -7.742000508798469,1.2491870787446828,6.309684476198726
+[28May2025 16:42:26.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 was kicked for floating too long!
+[28May2025 16:42:26.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Flying is not enabled on this server
+[28May2025 16:42:26.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[28May2025 16:42:35.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:51251] logged in with entity id 4360 at (-615.8136697649445, 64.16610926093821, 206.46931795528943)
+[28May2025 16:42:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[28May2025 16:42:35.119] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[28May2025 16:43:35.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Timed out
+[28May2025 16:43:35.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[28May2025 16:45:34.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:51481] logged in with entity id 4761 at (-629.3256767796468, 65.5, 244.91348544250678)
+[28May2025 16:45:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[28May2025 16:45:34.522] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
