@@ -985,6 +985,7 @@
       "minecraft:pillager": "2025-05-27 18:35:53 +0000",
       "minecraft:spider": "2025-05-27 17:35:14 +0000",
       "minecraft:husk": "2025-05-27 19:57:39 +0000",
+      "minecraft:enderman": "2025-05-28 21:15:10 +0000",
       "minecraft:zombie": "2025-05-27 18:13:38 +0000"
     },
     "done": false
@@ -1120,6 +1121,7 @@
       "cooked_mutton": "2025-05-28 16:39:54 +0000",
       "apple": "2025-05-28 16:31:18 +0000",
       "bread": "2025-05-27 19:01:23 +0000",
+      "golden_apple": "2025-05-28 21:12:22 +0000",
       "rotten_flesh": "2025-05-27 21:16:27 +0000",
       "melon_slice": "2025-05-27 17:38:09 +0000",
       "golden_carrot": "2025-05-27 22:03:41 +0000",
@@ -5276,6 +5278,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-28 18:58:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-28 21:14:09 +0000"
     },
     "done": true
   },

@@ -5757,3 +5757,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 21:05:15.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28May2025 21:08:13.655] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@19987d4a for service interface com.blamejared.clumps.platform.IEventHelper
 [28May2025 21:08:13.656] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@5f590c0c for service interface com.blamejared.clumps.platform.IPlatformHelper
+[28May2025 21:10:14.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:10:14.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:14:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has reached the goal [Fighting Nightmares]
+[28May2025 21:15:14.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:15:14.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
