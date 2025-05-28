@@ -3384,6 +3384,12 @@
     },
     "done": true
   },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2025-05-28 18:35:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-05-28 18:37:35 +0000"
@@ -3399,12 +3405,6 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-28 18:48:01 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/climbing_rope_topmount": {
-    "criteria": {
-      "has_lead": "2025-05-28 18:35:32 +0000"
     },
     "done": true
   },
@@ -3435,6 +3435,24 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-28 18:48:01 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-05-28 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-28 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-05-28 19:03:50 +0000"
     },
     "done": true
   },
