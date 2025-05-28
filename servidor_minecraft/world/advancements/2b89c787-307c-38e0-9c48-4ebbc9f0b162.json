@@ -229,11 +229,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-28 18:45:17 +0000",
       "minecraft:wooded_badlands": "2025-05-27 20:14:57 +0000",
       "minecraft:beach": "2025-05-28 18:41:31 +0000",
       "minecraft:mangrove_swamp": "2025-05-27 18:24:54 +0000",
       "minecraft:sparse_jungle": "2025-05-27 18:11:43 +0000",
       "minecraft:river": "2025-05-27 18:11:34 +0000",
+      "minecraft:forest": "2025-05-28 18:45:11 +0000",
       "minecraft:desert": "2025-05-27 18:36:17 +0000",
       "minecraft:jungle": "2025-05-27 18:06:36 +0000"
     },
@@ -3388,9 +3390,51 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-28 18:48:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-28 18:48:01 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/climbing_rope_topmount": {
     "criteria": {
       "has_lead": "2025-05-28 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-28 18:48:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-28 18:48:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-28 18:48:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-28 18:48:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-28 18:48:01 +0000"
     },
     "done": true
   },
