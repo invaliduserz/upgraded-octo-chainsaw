@@ -1056,3 +1056,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 01:52:00.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 was slain by Acolyte
 [28May2025 01:52:01.746] [Server thread/INFO] [tombstone/]: The player 1239873 has successfully been saved
 [28May2025 01:54:10.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-601, y=79, z=37} BlockPos{x=-602, y=78, z=37}
+[28May2025 01:59:14.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [A Strange Grave Dust]

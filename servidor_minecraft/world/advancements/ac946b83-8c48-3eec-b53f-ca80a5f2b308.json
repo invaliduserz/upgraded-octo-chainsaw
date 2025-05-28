@@ -4413,15 +4413,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-28 01:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-28 01:46:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-28 01:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
     },
     "done": true
   },
@@ -4458,6 +4482,12 @@
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-05-28 01:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
     },
     "done": true
   },
@@ -4551,6 +4581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-28 01:46:10 +0000"
@@ -4584,6 +4620,12 @@
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-05-28 01:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
     },
     "done": true
   },
@@ -4707,6 +4749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-05-28 01:46:10 +0000"
@@ -4716,6 +4764,18 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-28 01:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
     },
     "done": true
   },
@@ -4734,6 +4794,30 @@
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-28 01:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-28 02:01:34 +0000"
     },
     "done": true
   },
@@ -4770,6 +4854,18 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-05-28 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:04:58 +0000"
     },
     "done": true
   },
