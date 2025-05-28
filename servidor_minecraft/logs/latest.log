@@ -1071,3 +1071,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 16:27:24.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
 [28May2025 16:27:24.753] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
 [28May2025 16:28:28.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Forbidden Fruit]
+[28May2025 16:29:45.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Disconnected
+[28May2025 16:29:45.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
+[28May2025 16:31:09.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -6.901431036216877,-1.2491870787446828,7.325576970992046
+[28May2025 16:33:56.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Timed out
+[28May2025 16:33:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[28May2025 16:38:12.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:51221] logged in with entity id 3525 at (-574.6091273661137, 63.0, 141.88311397363367)
+[28May2025 16:38:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[28May2025 16:38:12.954] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
