@@ -6004,3 +6004,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 18:36:34.537] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
 [28May2025 18:37:43.078] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@64eaacc7 for service interface com.blamejared.clumps.platform.IEventHelper
 [28May2025 18:37:43.079] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@2051b141 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[28May2025 18:39:26.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 18:39:26.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 18:40:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Ice Bucket Challenge]
+[28May2025 18:44:26.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 18:44:26.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 18:44:39.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -0.0015756437460368033,-7.078400001525878,-7.349285687301119

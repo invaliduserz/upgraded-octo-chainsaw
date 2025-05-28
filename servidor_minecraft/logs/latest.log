@@ -1061,3 +1061,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 18:36:34.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:52484] logged in with entity id 1977 at (-578.5, 63.0, 140.5)
 [28May2025 18:36:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
 [28May2025 18:36:34.537] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
+[28May2025 18:40:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 has made the advancement [Ice Bucket Challenge]
+[28May2025 18:44:39.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 moved too quickly! -0.0015756437460368033,-7.078400001525878,-7.349285687301119
