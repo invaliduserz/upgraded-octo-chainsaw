@@ -6077,3 +6077,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 19:36:59.807] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@40c5d766 into net.minecraft.network.Connection@2ebf350a
 [28May2025 19:36:59.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
 [28May2025 19:36:59.896] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[28May2025 19:39:09.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 19:39:09.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 19:44:09.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 19:44:09.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 19:47:35.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Disconnected
+[28May2025 19:47:35.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game

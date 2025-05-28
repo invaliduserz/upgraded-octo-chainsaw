@@ -1071,3 +1071,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 19:36:59.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesus[/100.99.91.116:54545] logged in with entity id 3240 at (-595.2874538909792, 65.0, 147.40116765346667)
 [28May2025 19:36:59.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus joined the game
 [28May2025 19:36:59.896] [Server thread/INFO] [Jade/]: Syncing config to jesus (2b89c787-307c-38e0-9c48-4ebbc9f0b162)
+[28May2025 19:47:35.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesus lost connection: Disconnected
+[28May2025 19:47:35.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus left the game
