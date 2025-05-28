@@ -1077,3 +1077,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 [28May2025 21:44:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
 [28May2025 21:44:16.614] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
 [28May2025 21:44:24.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6145ms or 122 ticks behind
+[28May2025 22:07:48.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1239873 lost connection: Timed out
+[28May2025 22:07:48.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 left the game
+[28May2025 22:07:55.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1239873[/100.77.228.72:54117] logged in with entity id 4412 at (-590.0743798877961, 71.0, 141.715163870624)
+[28May2025 22:07:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1239873 joined the game
+[28May2025 22:07:55.908] [Server thread/INFO] [Jade/]: Syncing config to 1239873 (ac946b83-8c48-3eec-b53f-ca80a5f2b308)
